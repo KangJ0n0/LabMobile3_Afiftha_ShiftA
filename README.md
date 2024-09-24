@@ -1,16 +1,40 @@
-# jedagjedugepilepsi
 
-Tugas
 
-## Getting Started
+Nama       : Afiftha Ravi Aufa
 
-This project is a starting point for a Flutter application.
+NIM        : H1D022095
 
-A few resources to get you started if this is your first Flutter project:
+Shift Baru : A
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Penjelasan Program 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### loginpage.dart
+
+
+### homepage.dart
+
+
+
+### sidemenu.dart
+
+
+
+
+### profilpage.dart
+
+
+
+
+### Screenshot Aplikasi
+<div style="display: flex; justify-content: space-between;">
+
+ <img src="assets/img/welcome.png" alt="Tampilan Perkenalan" style="width: 18%;">
+ <img src="assets/img/login.png" alt="Tampilan Perkenalan" style="width: 18%;">
+ <img src="assets/img/homepage.png" alt="Tampilan Perkenalan" style="width: 18%;">
+ <img src="assets/img/sidemenu.png" alt="Tampilan Perkenalan" style="width: 18%;">
+ <img src="assets/img/profil.png" alt="Tampilan Perkenalan" style="width: 18%;">
+
+
+</div>
+
