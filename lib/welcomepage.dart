@@ -10,7 +10,9 @@ class WelcomePage extends StatelessWidget {
           Container(
             decoration: BoxDecoration(
               image: DecorationImage(
-                image: AssetImage('img/background.jpg'),
+                image: NetworkImage(
+                  'https://scontent.fcgk27-1.fna.fbcdn.net/v/t39.30808-6/461092791_890261669685141_650386013230379784_n.jpg?stp=dst-jpg_s600x600&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=bf-Y96wsPA8Q7kNvgGTGQJU&_nc_ht=scontent.fcgk27-1.fna&oh=00_AYALKFSw8PCoDLTphXl5RFnjsJ2IM65G42NzptpOLa5Cuw&oe=66F7DBBD',
+                ),
                 fit: BoxFit.cover,
               ),
             ),
@@ -42,7 +44,7 @@ class WelcomePage extends StatelessWidget {
                     style: ElevatedButton.styleFrom(
                       backgroundColor: Colors.blueAccent,
                       padding:
-                          EdgeInsets.symmetric(horizontal: 30, vertical: 15),
+                      EdgeInsets.symmetric(horizontal: 30, vertical: 15),
                       textStyle: TextStyle(
                         fontSize: 18,
                       ),
